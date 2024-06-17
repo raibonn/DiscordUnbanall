@@ -1,2 +1,2 @@
-# DiscordGameKeeper
+# DiscordUnBanAll
 このツールはNukeBotなどにDiscordサーバーを破壊された際に効率的にサーバーを復元するためのツールです
